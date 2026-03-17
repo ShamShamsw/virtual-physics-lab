@@ -1,0 +1,14 @@
+[
+  {
+    "session_id": "20260317_222337",
+    "demo_sequence_label": "mechanics_basics",
+    "strategy_selected": "analytic",
+    "strategy_runs": 2,
+    "trials_completed": 6,
+    "runtime_points": 40,
+    "elapsed_ms": 398.9934,
+    "best_strategy": "analytic",
+    "finished_at": "2026-03-17T22:23:37Z",
+    "run_file": "C:\\Users\\jhase\\OneDrive\\Documents\\Jacob\\Programing\\student-interview-prep\\languages\\python\\beginner-projects\\47-virtual-physics-lab\\data\\outputs\\run_20260317_222337.json"
+  }
+]

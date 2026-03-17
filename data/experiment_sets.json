@@ -1,0 +1,94 @@
+[
+  {
+    "experiment_id": "exp_001",
+    "label": "mechanics_basics",
+    "name": "Projectile Range Test",
+    "experiment_type": "projectile_range",
+    "parameters": {
+      "velocity": 18.0,
+      "angle_deg": 42.0,
+      "gravity": 9.81
+    },
+    "description": "Measure horizontal range at a fixed launch speed and angle.",
+    "tags": [
+      "kinematics",
+      "projectile"
+    ]
+  },
+  {
+    "experiment_id": "exp_002",
+    "label": "mechanics_basics",
+    "name": "Free-Fall Impact Time",
+    "experiment_type": "free_fall_time",
+    "parameters": {
+      "height": 20.0,
+      "gravity": 9.81
+    },
+    "description": "Measure fall time from a known drop height.",
+    "tags": [
+      "kinematics",
+      "gravity"
+    ]
+  },
+  {
+    "experiment_id": "exp_003",
+    "label": "mechanics_basics",
+    "name": "Pendulum Period",
+    "experiment_type": "pendulum_period",
+    "parameters": {
+      "length": 1.35,
+      "gravity": 9.81
+    },
+    "description": "Estimate oscillation period for a simple pendulum.",
+    "tags": [
+      "oscillation",
+      "period"
+    ]
+  },
+  {
+    "experiment_id": "exp_004",
+    "label": "mechanics_basics",
+    "name": "Spring Extension",
+    "experiment_type": "spring_extension",
+    "parameters": {
+      "mass": 1.8,
+      "spring_k": 120.0,
+      "gravity": 9.81
+    },
+    "description": "Estimate static extension under a hanging mass.",
+    "tags": [
+      "hooke",
+      "statics"
+    ]
+  },
+  {
+    "experiment_id": "exp_005",
+    "label": "mechanics_basics",
+    "name": "Inclined Plane Acceleration",
+    "experiment_type": "incline_acceleration",
+    "parameters": {
+      "angle_deg": 23.0,
+      "gravity": 9.81
+    },
+    "description": "Estimate acceleration down a low-friction incline.",
+    "tags": [
+      "dynamics",
+      "incline"
+    ]
+  },
+  {
+    "experiment_id": "exp_006",
+    "label": "mechanics_basics",
+    "name": "Ohm Law Current Sweep",
+    "experiment_type": "ohm_current",
+    "parameters": {
+      "voltage": 9.0,
+      "resistance": 4.5
+    },
+    "description": "Measure current from source voltage and resistance.",
+    "tags": [
+      "electricity",
+      "circuits"
+    ]
+  }
+]
